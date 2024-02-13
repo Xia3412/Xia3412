@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xia</h1>
+<h1 align="center">Hi 👋, I'm nyx</h1>
 <h3 align="center">A discord.py bot developer from Australia</h3>
 
 - 🔭 I’m currently working on **Versa-Cord( A multi-purpose Discord Bot )**
